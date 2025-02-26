@@ -1,3 +1,5 @@
 # Cybiome
 
-This GitHUb organization groups all repository relevant to Cybiome. Cybiome webpage: https://cybiome.com/
+This GitHub organization groups all repository relevant to Cybiome. Note: at this state most Repos are private.
+
+Cybiome webpage: https://cybiome.com/
